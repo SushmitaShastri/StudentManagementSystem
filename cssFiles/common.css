@@ -1,0 +1,14 @@
+a:hover
+{
+    cursor: pointer;
+}
+a{
+    color:rgb(0, 41, 128);
+}
+a:active{
+    text-decoration: bold;
+}
+.container
+{
+   margin-top:80px !important;
+}
